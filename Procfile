@@ -1,1 +1,1 @@
-worker: python mainbotg.py
+worker: python mainxbotg.py
